@@ -1,0 +1,5 @@
+print("What is your name?")
+name = input()
+print("What is your age?")
+age = input()
+print("So, you are", age,"years old and you are named",name)
